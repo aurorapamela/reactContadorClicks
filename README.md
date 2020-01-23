@@ -1,2 +1,0 @@
-# reactContadorClicks
-Created with CodeSandbox
